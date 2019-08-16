@@ -2,4 +2,4 @@
 
 Stochastic simulation of a model for gene expression which may be bistable between two steady-state concentrations.
 
-![](TimeSeries.gif)
+![](GillespieSSA/TimeSeries.gif)
